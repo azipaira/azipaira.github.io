@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://azipaira.github.io/KOY/sitemap_index.txt
+Sitemap: https://azipaira.github.io/PfF/sitemap_index.txt
+Sitemap: https://azipaira.github.io/nAB/sitemap_index.txt
+Sitemap: https://azipaira.github.io/uql/sitemap_index.txt
